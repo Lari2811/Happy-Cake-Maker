@@ -1,17 +1,25 @@
-# Happy Cake Maker
+# Happy Cake Maker 🎂
 
-**Happy Cake Maker** este o aplicație C++ pentru gestionarea unui aparat de prăjituri. Utilizatorii pot comanda prăjituri dintr-un depozit, le pot crea folosind rețete disponibile și pot vizualiza detalii despre prăjituri și rețete.
+Bine ai venit la **Happy Cake Maker** – o aplicație în C++ care îți permite să gestionezi un aparat de prăjituri! 🍰
 
-## Funcționalități
+Cu această aplicație, poți:
+- Comanda prăjituri deja existente în depozit 🍪
+- Creează prăjituri noi folosind rețete delicioase 🍩
+- Vizualizează informații detaliate despre prăjituri și rețete 🎂
 
-- Vizualizează prăjiturile existente în depozit.
-- Creează prăjituri noi utilizând rețete predefinite.
-- Comandă prăjituri din depozit sau creează-le pe baza rețetelor.
-- Interfață de utilizator bazată pe text cu meniuri interactive.
+  
+## Funcționalități ✨
 
-## Tehnologii Utilizate
+- **Vizualizare prăjituri existente**: Vezi ce prăjituri sunt disponibile în depozit.
+- **Comandă prăjituri**: Alege o prăjitură din depozit sau creează una nouă din rețetele disponibile.
+- **Creare prăjituri noi**: Folosește rețetele predefinite pentru a crea noi prăjituri.
+- **Interfață prietenoasă**: Meniu interactiv în linie de comandă.
 
-- C++
+## Tehnologii 🚀
+
+- **C++** – Limbajul principal folosit pentru dezvoltarea aplicației.
+- **Visual Studio** – Platforma recomandată pentru deschiderea și rularea proiectului.
 
 ## Fişiere Necesare
 - retete.txt - conține informațiile despre rețete și prăjituri.
+
