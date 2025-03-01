@@ -1,0 +1,5 @@
+Cheesecake Reteta_Cheesecake 30 1
+Tiramisu Reteta_Tiramisu 45 2 10.5
+Brownie Reteta_Brownie 25 1
+Cookies Reteta_Cookies 20 2 8.0
+Profiterol Reteta_Profiterol 60 2 11

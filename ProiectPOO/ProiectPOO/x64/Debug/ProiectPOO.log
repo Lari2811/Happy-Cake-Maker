@@ -1,0 +1,3 @@
+﻿  Cod.cpp
+C:\Users\laris\Desktop\Proiect -Git\ProiectPOO\Cod.cpp(295,1): warning C4715: 'PanouControl::Primire_Comanda': not all control paths return a value
+  ProiectPOO.vcxproj -> C:\Users\laris\Desktop\Proiect -Git\ProiectPOO\x64\Debug\ProiectPOO.exe
