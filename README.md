@@ -1,25 +1,23 @@
 # Happy Cake Maker 🎂
 
-Bine ai venit la **Happy Cake Maker** – o aplicație în C++ care îți permite să gestionezi un aparat de prăjituri! 🍰
+Welcome to **Happy Cake Maker** – a C++ application that allows you to manage a cake maker! 🍰
 
-Cu această aplicație, poți:
-- Comanda prăjituri deja existente în depozit 🍪
-- Creează prăjituri noi folosind rețete delicioase 🍩
-- Vizualizează informații detaliate despre prăjituri și rețete 🎂
+With this application, you can:
+- Order cakes already in the warehouse 🍪
+- Create new cakes using delicious recipes 🍩
+- View detailed information about cakes and recipes 🎂
 
-  
-## Funcționalități ✨
+## Features ✨
 
-- **Vizualizare prăjituri existente**: Vezi ce prăjituri sunt disponibile în depozit.
-- **Comandă prăjituri**: Alege o prăjitură din depozit sau creează una nouă din rețetele disponibile.
-- **Creare prăjituri noi**: Folosește rețetele predefinite pentru a crea noi prăjituri.
-- **Interfață prietenoasă**: Meniu interactiv în linie de comandă.
+- **View existing cakes**: See what cakes are available in the warehouse.
+- **Order cakes**: Choose a cake from the warehouse or create a new one from the available recipes.
+- **Create new cakes**: Use predefined recipes to create new cakes.
+- **Friendly interface**: Interactive command line menu.
 
-## Tehnologii 🚀
+## Technologies 🚀
 
-- **C++** – Limbajul principal folosit pentru dezvoltarea aplicației.
-- **Visual Studio** – Platforma recomandată pentru deschiderea și rularea proiectului.
+- **C++** – The main language used for application development.
+- **Visual Studio** – The recommended platform for opening and running the project.
 
-## Fişiere Necesare
-- retete.txt - conține informațiile despre rețete și prăjituri.
-
+## Required Files
+- recipes.txt - contains information about recipes and cakes.
